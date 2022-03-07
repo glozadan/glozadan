@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gloria ALicia Lozada @glozadan
 - 👀 I’m interested in Data Sience, Science, keep learning, and share what I learn.
-- 🌱 I’m currently learning SQL and I want to master Python and R.
+- 🌱 I'm currently a Backend Padawan @Hackademy.
 - 📫 Reach me at gloria.lozna@gmail.com.
 
 <!---
